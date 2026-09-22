@@ -8,7 +8,7 @@ elif type == "Substraction":
 elif type == "Multiplication":
 	print(n1 * n2)
 else
-	print("Operation not valid")
+	print("Operation not supported")
 end if
 """Some comments here"""
 Another line of comments
