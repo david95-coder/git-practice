@@ -5,6 +5,8 @@ if type == "Sum":
 	print(n1 + n2)
 elif type == "Substraction":
 	print(n1- n2)
+elif type == "Multiplication":
+	print(n1 * n2)
 else
 	print("Operation not valid")
 end if
